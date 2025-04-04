@@ -11,7 +11,7 @@ body { padding: 0; margin: 0 }
     width: 0%; 
     height: 18px; 
     margin-top: 10px; 
-    background: #5b2bb4 !important; /* Cambia el color al que desees */
+    background: #00c5bc !important; /* Cambia el color al que desees */
 }
 
 #unity-footer { position: relative }
